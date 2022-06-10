@@ -3,7 +3,11 @@ trying out a few git bash commands
 =======
 This is a part of cognizance task1
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b7daebf (third commit)
 =======
 Trying out few baisc git bash commands
 >>>>>>> 8a74dc0 ("3rd commit")
+=======
+Trying out a few basic git bash commands
+>>>>>>> 13151ab ("3rd commit")

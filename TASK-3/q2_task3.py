@@ -1,8 +1,10 @@
 import numpy as np
-x = np.random.randint(0,2,6)
+print("Enter the size of the array")
+n = int(input())
+x = np.random.randint(0,5,n)
 print("First array:")
 print(x)
-y = np.random.randint(0,2,6)
+y = np.random.randint(0,5,n)
 print("Second array:")
 print(y)
 print("Are the arrays equal?")
